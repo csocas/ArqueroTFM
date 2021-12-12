@@ -58,6 +58,8 @@ public class playercontroller : MonoBehaviour
             rb.AddForce(flecha.transform.forward * potenciaMaximaflecha * curve.Evaluate(timer));
         
             potenciaObject.SetActive(false);
+            gamecontroller.singleton.OnFire();
+
 
         }
     }

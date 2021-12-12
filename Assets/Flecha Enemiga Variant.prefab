@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1008298695550508991, guid: 355aafe412f5a450a8313bdb0e433e1d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2091226314541171102, guid: 355aafe412f5a450a8313bdb0e433e1d, type: 3}
       propertyPath: m_Name
       value: Flecha Enemiga Variant
@@ -25,11 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2091226314541171103, guid: 355aafe412f5a450a8313bdb0e433e1d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.339166
+      value: -9.569387
       objectReference: {fileID: 0}
     - target: {fileID: 2091226314541171103, guid: 355aafe412f5a450a8313bdb0e433e1d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.3420446
+      value: 7.8429117
       objectReference: {fileID: 0}
     - target: {fileID: 2091226314541171103, guid: 355aafe412f5a450a8313bdb0e433e1d, type: 3}
       propertyPath: m_LocalPosition.z
