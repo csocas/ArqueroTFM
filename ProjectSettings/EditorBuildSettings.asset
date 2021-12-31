@@ -6,6 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Arquero1.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 35e5b6fe0abfda4448cfaa3ff722645c
+  - enabled: 1
+    path: Assets/Assets History/Scenes/1.unity
+    guid: 98d83464e735949908381d5e93761526
+  - enabled: 1
+    path: Assets/Scenes/2.unity
     guid: 463a4f143a4b344f58ba93f98c437046
+  - enabled: 1
+    path: Assets/Assets History/Scenes/3.unity
+    guid: 067b17466f2f7491e94a8ff2016c2810
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 9e3c7bb0f7a8b49339784de17e6d2f03
+  - enabled: 1
+    path: Assets/Assets History/Scenes/5.unity
+    guid: fb5551f532583439a9b61be02ec47701
+  - enabled: 1
+    path: Assets/Scenes/6.unity
+    guid: 13b31b3a0512e4b9cba30f3e17b4b93f
+  - enabled: 1
+    path: Assets/Assets History/Scenes/7.unity
+    guid: 5a021f599a1d04359b91590aa38bfc8c
+  - enabled: 1
+    path: Assets/Scenes/8.unity
+    guid: 598ec403ef0804a52b493e6235a0dc10
+  - enabled: 1
+    path: Assets/Assets History/Scenes/9.unity
+    guid: 88c50b7257c82410e8fbc918380a74cd
+  - enabled: 1
+    path: Assets/Scenes/10.unity
+    guid: 79a2564ebb1064ef9a7744b5d06b0969
   m_configObjects: {}
